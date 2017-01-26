@@ -29,16 +29,16 @@ namespace PesukoneApp
         }
         public void BounceAround()
         {
-            Console.WriteLine("As you walk towards your wahsingmachien it starts to bounce all around the room violently.");
+            Console.WriteLine("As you walk towards your wahsingmachine it starts to bounce all around the room violently.");
         }
         public void Dataout()
         {
 
-            Console.WriteLine(SlingMode);
-            Console.WriteLine(DrySling);
-            Console.WriteLine(WaterTemps);
-            Console.WriteLine(Time);
-            Console.WriteLine(SlingMode);
+            Console.WriteLine("-Slingmode: " + SlingMode);
+            Console.WriteLine("-Dryslingmode: " + DrySling);
+            Console.WriteLine("Water temperature: " + WaterTemps);
+            Console.WriteLine("Time remaining: " + Time);
+            
 
         }
 
