@@ -12,9 +12,11 @@ namespace TVapp03
         {
             TV tele = new TV();
             tele.IsOn = true;
-            tele.TopGearHype = 9001;
+            tele.TopGearHype = 250;
             tele.TooMuchAds = true;
+            tele.ChannelCount = 25;
             tele.NetflixAndChill();
+            tele.TurnOff();
             tele.Dataout();
 
 

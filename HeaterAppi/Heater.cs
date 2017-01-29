@@ -18,11 +18,11 @@ namespace HeaterAppi
 
         public void ThrowWater()
         {
-            Console.WriteLine("TShhhh");
+            Humidity += 1.02;
         }
         public void AddWood()
         {
-            Console.WriteLine("brrghhhhh");
+            Temp += 5;
 
         }
     }

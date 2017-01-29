@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaterAppi", "HeaterAppi\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVapp03", "TVapp03\TVapp03.csproj", "{B423CF82-4A3F-43C8-82DE-D9EDCDB5B229}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle04", "Vehicle04\Vehicle04.csproj", "{58409D83-995E-4E98-A421-9FC91CFD87F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student05", "Student05\Student05.csproj", "{44BD7503-AB2D-4CBA-A2E8-0CC345E24E2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B423CF82-4A3F-43C8-82DE-D9EDCDB5B229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B423CF82-4A3F-43C8-82DE-D9EDCDB5B229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B423CF82-4A3F-43C8-82DE-D9EDCDB5B229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58409D83-995E-4E98-A421-9FC91CFD87F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58409D83-995E-4E98-A421-9FC91CFD87F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58409D83-995E-4E98-A421-9FC91CFD87F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58409D83-995E-4E98-A421-9FC91CFD87F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44BD7503-AB2D-4CBA-A2E8-0CC345E24E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BD7503-AB2D-4CBA-A2E8-0CC345E24E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BD7503-AB2D-4CBA-A2E8-0CC345E24E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BD7503-AB2D-4CBA-A2E8-0CC345E24E2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

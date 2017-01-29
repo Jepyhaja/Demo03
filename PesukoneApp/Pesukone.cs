@@ -21,11 +21,13 @@ namespace PesukoneApp
         public void Sling()
         {
             Console.WriteLine("sling sling sling");
+            Time += 12;
         }
 
         public void Rumble()
         {
             Console.WriteLine("Intimidating rumble echoes from far far away!");
+            WaterTemps += 150;
         }
         public void BounceAround()
         {
