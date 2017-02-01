@@ -81,6 +81,8 @@ namespace Student05
             Console.WriteLine("Level of attention > " + LevelOfAttention);
             Console.WriteLine("Cups of coffee > " + CupsOfCoffee);
             Console.WriteLine("Missed classes > " + MissedClasses);
+            Console.WriteLine();
+            Console.WriteLine();
         }
 
 

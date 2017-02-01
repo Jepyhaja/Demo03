@@ -25,6 +25,38 @@ namespace Student05
             jarza.SlackOff();
             jarza.DataOut();
 
+            Student hemmo = new Student();
+            hemmo.FirstName = "Hemmo";
+            hemmo.LastName = "Hento";
+            hemmo.StudentID = "4242424";
+            hemmo.LevelOfAttention = 12;
+            hemmo.MissedClasses = 2;
+            hemmo.CupsOfCoffee = 2;
+            hemmo.RunToClass();
+            hemmo.DataOut();
+
+            Student taituri = new Student();
+            taituri.FirstName = "Yuri";
+            taituri.LastName = "Taituri";
+            taituri.StudentID = "696969";
+            taituri.LevelOfAttention = 99;
+            taituri.MissedClasses = 0;
+            taituri.CupsOfCoffee = 65;
+            taituri.DrinkCoffee();
+            taituri.DataOut();
+
+            Student slacker = new Student();
+            slacker.FirstName = "Miina";
+            slacker.LastName = "Granade";
+            slacker.StudentID = "1234567";
+            slacker.LevelOfAttention = -89;
+            slacker.MissedClasses = 25;
+            slacker.CupsOfCoffee = 0;
+            slacker.SlackOff();
+            slacker.DataOut();
+
+
+
 
 
         }
