@@ -24,12 +24,14 @@ namespace Vehicle04
             Console.WriteLine("Your vehhilce has " + tyres + " tyres");
         }
 
-        public void ToString()
-        {
-            string Speed = speed.ToString();
-            string Tyres = tyres.ToString();
-            Console.WriteLine(name + " " + Speed + " " + Tyres);
-        }
+        
+
+            
+             public string toString(){
+                return  name+speed+tyres;
+             }
+             
+        
 
 
 
