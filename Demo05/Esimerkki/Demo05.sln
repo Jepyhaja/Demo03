@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo05", "Demo05\Demo05.csproj", "{F3272A6C-661A-4391-90FC-9744E274DBD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esim01", "Demo05\Esim01.csproj", "{F3272A6C-661A-4391-90FC-9744E274DBD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD02", "CD02\CD02.csproj", "{9812ADA1-D445-401A-9D15-2C8AFC5B92A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F3272A6C-661A-4391-90FC-9744E274DBD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3272A6C-661A-4391-90FC-9744E274DBD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3272A6C-661A-4391-90FC-9744E274DBD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9812ADA1-D445-401A-9D15-2C8AFC5B92A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9812ADA1-D445-401A-9D15-2C8AFC5B92A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9812ADA1-D445-401A-9D15-2C8AFC5B92A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9812ADA1-D445-401A-9D15-2C8AFC5B92A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
