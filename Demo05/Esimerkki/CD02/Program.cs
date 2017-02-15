@@ -11,23 +11,25 @@ namespace CD02
         static void Main(string[] args)
         {
             CD cd = new CD02.CD();
-            cd.Artist = "NW";
-            cd.Price = 16.50;
-            cd.CdName = "NAME";
+            cd.Artist = "Nightwish";
+            cd.CdName = "Endless Forms Most Beautiful";
+            cd.Price = 26.50;
 
-            Song song = new Song();
-            song.Name = "elan";
+            Song song1 = new Song { Name = "Shudder Before the Beautiful", Length = "6:29" };
+            Song song2 = new Song { Name = "Weak Fantasy", Length = "5:23" };
+            Song song3 = new Song { Name = "Elan", Length = "4:45" };
+            Song song4 = new Song { Name = "My Walden", Length = "4:38" };
+
+
+            cd.AddSongs(song1);
+            cd.AddSongs(song2);
+            cd.AddSongs(song3);
+            cd.AddSongs(song4);
+
+            cd.PrintData();
             
-            
 
-            
 
-            Collection mycds = new Collection();
-
-            mycds.addCD(cd);
-           
-
-            mycds.PrintCollection();
 
 
         }

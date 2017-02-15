@@ -1,23 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="CD02.CD">
-    <Position X="3.5" Y="0.5" Width="1.25" />
+    <Position X="3.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>CAAAAAAAAQAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>CAAAAAAAAQAAAAAAAAAEAAAgAIAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CD.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="CD02.Collection">
-    <Position X="3.5" Y="2.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAEAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAIAIAAA=</HashCode>
-      <FileName>Collection.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CD02.Song">
     <Position X="5.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAEAAAAAARAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Song.cs</FileName>
     </TypeIdentifier>
   </Class>
