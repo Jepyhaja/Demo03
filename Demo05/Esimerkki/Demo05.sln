@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esim01", "Demo05\Esim01.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD02", "CD02\CD02.csproj", "{9812ADA1-D445-401A-9D15-2C8AFC5B92A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicCollection03", "MusicCollection03\MusicCollection03.csproj", "{65AB9DED-1D2E-4CEB-83F9-2BA50EC61CEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9812ADA1-D445-401A-9D15-2C8AFC5B92A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9812ADA1-D445-401A-9D15-2C8AFC5B92A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9812ADA1-D445-401A-9D15-2C8AFC5B92A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AB9DED-1D2E-4CEB-83F9-2BA50EC61CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AB9DED-1D2E-4CEB-83F9-2BA50EC61CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AB9DED-1D2E-4CEB-83F9-2BA50EC61CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AB9DED-1D2E-4CEB-83F9-2BA50EC61CEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
